@@ -1,0 +1,10 @@
+com\repsly\lunchsuggestion\utils\LocationEnum$1.class
+com\repsly\lunchsuggestion\mappers\WeatherMapper.class
+com\repsly\lunchsuggestion\pojo\Weather.class
+com\repsly\lunchsuggestion\mappers\RestaurantMapper.class
+com\repsly\lunchsuggestion\services\LunchService.class
+com\repsly\lunchsuggestion\services\LunchServiceImpl.class
+com\repsly\lunchsuggestion\utils\LocationEnum.class
+com\repsly\lunchsuggestion\controllers\LunchController.class
+com\repsly\lunchsuggestion\LunchSuggestionApplication.class
+com\repsly\lunchsuggestion\pojo\Restaurant.class
