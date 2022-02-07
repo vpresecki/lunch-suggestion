@@ -5,7 +5,7 @@
   ### localhost:8080/{cityName}
   ### result is link to file on google storage with restaurant name and current weather description
   
-  ##Map Table for Restaurant:
+  ### Map Table for Restaurant:
   
 | GoogleAPI Places | Restaurant                |
 |------------------|---------------------------|
@@ -14,7 +14,7 @@
 | Weather          | see Weather mapping table |
 |                  |                           |
 
-  ##Map Table for Weather
+  ### Map Table for Weather
   
   | OpenWeatherAPI      | Weather     |
 |---------------------|-------------|
